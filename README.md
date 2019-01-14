@@ -1,1 +1,1 @@
-# Sanoff-Ancestral-Sequences
+# Sankoff-Ancestral-Sequences
