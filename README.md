@@ -39,6 +39,5 @@ Step 3:
 sankoff.py, myPhylogeneticTree.py
 Input: aligned.fasta, phylogeny.txt_phyml_tree.txt
 Output: Ancestral Sequence.txt
-=======
-# Sankoff-Ancestral-Sequences
+
 
